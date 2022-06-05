@@ -20,7 +20,19 @@ h6 {
   border: 2px solid black;
   padding: 1rem;
 
+}
 
+a:hover {
+  background-color: black;
+}
+
+button:hover {
+  background-color:black;
+  color: white;
+}
+.main-nav ul li a:hover {
+  color: white;
+  background: black;
 }
 
 a:visited {
