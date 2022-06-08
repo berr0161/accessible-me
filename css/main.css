@@ -17,6 +17,9 @@ h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
 }
+.skip-links a:focus{
+  top: 0;
+}
 .skip-links{
   list-style: none;
   margin: 0;
